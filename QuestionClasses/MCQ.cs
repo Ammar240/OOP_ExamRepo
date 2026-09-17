@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOPExam.QuestionClasses
+namespace OOPExam.QuestionClasses;
+
+internal class MCQ:Question
 {
-    internal class MCQ:Question
-    {
-    }
+
 }
